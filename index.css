@@ -1,0 +1,26 @@
+.potal{
+    text-align: center;
+    justify-items: center;
+    margin-top: 200PX;
+}
+h4{
+    text-align: center;
+}
+
+table{
+     border-collapse: collapse;
+     width: 700px;
+     height: 300px;
+     font-size: 18px;
+     justify-content:center;
+     border: 1px solid;
+     text-align: left;
+}
+table th{
+    background-color: rgb(156, 244, 156);
+    height: 20px;
+}
+
+th, td{
+    border: 1px solid;
+}
